@@ -5,8 +5,8 @@ var outputDiv = document.querySelector("#output");
 
 
 function clickHandler() {
-    outputDiv.innerText="bannananannana " + txtInput.value;
-    
+    outputDiv.innetext="bannananannana " + txtInput.value ;
+
 };
 
 btnTranslate.addEventListener("click", clickHandler)
