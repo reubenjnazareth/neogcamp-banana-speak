@@ -45,6 +45,7 @@ textarea {
 
 footer {
     background-color: var(--primary-color);
+    margin: auto;
     font-size: larger;
     text-align: center;
     padding: 2rem;
