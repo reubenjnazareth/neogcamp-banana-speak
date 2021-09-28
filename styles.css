@@ -2,25 +2,23 @@
 
 :root {
     --primary-color: #ffd149;
-    --widthbreak: 600px;
 }
 
 body {
-    margin: 0;
-    font-family: 'Comic Neue', cursive;;
+    font-family: 'Comic Neue', cursive;
+    margin: 0px;
 }
 
 .heading {
-    padding: 1rem;
+    padding: 1.2rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: xxx-large;
     background-color: var(--primary-color);
 }
 
 main {
     margin: auto;
-    padding: 1rem;
-    max-width: var(--widthbreak);
+    max-width: 800px;
 }
 
 textarea {
