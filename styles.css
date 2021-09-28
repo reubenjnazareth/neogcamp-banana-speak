@@ -18,15 +18,14 @@ body {
 
 main {
     margin: auto;
-   // max-width: 800px;
+    max-width: 800px;
 }
 
 textarea {
-    box-sizing: border-box;
     display: block;
     width: 100%;
     min-height: 20vh;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     font-size: large;
 }
 .button {
@@ -38,7 +37,7 @@ textarea {
 
 #output {
     width: 100%;
-    min-height: 20vh;
+    min-height: 15vh;
     margin-top: 1rem;
     border:0.7px solid black;
     box-sizing: border-box;
