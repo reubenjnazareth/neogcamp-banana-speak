@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Comic Neue', cursive;
-    margin: 0px;
+    margin: auto;
 }
 
 .heading {
@@ -27,6 +27,7 @@ textarea {
     min-height: 20vh;
     margin-top: 1.5rem;
     font-size: large;
+    padding: 1rem;
 }
 .button {
     background-color: var(--primary-color);
@@ -36,23 +37,17 @@ textarea {
 }
 
 #output {
-    width: 100%;
     min-height: 15vh;
-    margin-top: 1rem;
     border:0.7px solid black;
-    box-sizing: border-box;
+    margin-bottom: 45px;
+    margin-top: 15px;
+    padding: 1rem;
+    
 }
-
 footer {
     background-color: var(--primary-color);
-    margin: auto;
-    font-size: larger;
+    padding: 3rem 0rem;
     text-align: center;
-    padding: 2rem;
-    bottom: 0;
-    position: fixed;
-    width: 100%;
-
 }
     
 
